@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently working on **Tweet2Telegram_Bot**
 
-- 🌱 I’m currently learning **React Native**
-
 - 💬 Ask me about **ASP.NET Core, .NET, React, JavaScript, Python, Linux**
 
 - 📫 How to reach me **kucherakmykhailo@gmail.com**
